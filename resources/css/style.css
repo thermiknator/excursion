@@ -1,4 +1,4 @@
-* {
+body {
   font-family: Verdana;
   text-align: center;
   background-color: black;
@@ -25,4 +25,8 @@ a {
 p {
   font-size: 21px;
   color: gray;
+}
+
+div.footer {
+  text-align: right;
 }
